@@ -44,7 +44,3 @@ coverage
 # Optional: ignore next.js or CRA cache
 .next
 .cache
-
-
-.env
-
