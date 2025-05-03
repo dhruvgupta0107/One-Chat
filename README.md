@@ -1,4 +1,3 @@
-
 # OneChat
 
 **OneChat** is a one-to-one real-time chatting application built as a learning project to enhance development skills and showcase in a portfolio. It includes private messaging, image sharing, status indicators, and supports 32 beautiful UI themes powered by DaisyUI.
@@ -14,23 +13,28 @@
 ## 📸 Screenshots
 
 ### 🔐 Login Page
+
 ![Login](./client/public/screenshots/login.png)
 
 ### 💬 Chat Interface
+
 ![Chat Interface](./client/public/screenshots/chat-interface.png)
 
 **Chat Preview:**
+
 ```
-User 1: Hey! Just testing out the OneChat app 😄  
-User 2: Looks awesome! The theme switcher is super cool 🔥  
-User 1: Agreed! Just uploaded an image too — check it out 📸  
+User 1: Hey! Just testing out the OneChat app 😄
+User 2: Looks awesome! The theme switcher is super cool 🔥
+User 1: Agreed! Just uploaded an image too — check it out 📸
 User 2: Got it! Works perfectly 👍
 ```
 
-### 🖼️ Image Upload
-![Image Upload](./client/public/screenshots/image-upload.png)
+### 👤 Profile Page
+
+![Profile Page](./client/public/screenshots/profile-page.png)
 
 ### 🎨 Theme Switcher
+
 ![Theme Switcher](./client/public/screenshots/theme-switcher.png)
 
 ---
@@ -50,11 +54,13 @@ User 2: Got it! Works perfectly 👍
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - React.js
 - Tailwind CSS
 - DaisyUI
 
 ### Backend
+
 - Node.js
 - Express.js
 - MongoDB (Mongoose)
@@ -76,6 +82,7 @@ chat-app/
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/dhruvgupta0107/chat-app.git
    cd chat-app
@@ -105,6 +112,7 @@ chat-app/
    ```
 
 4. **Run the project**
+
    ```bash
    # Start backend
    cd server
